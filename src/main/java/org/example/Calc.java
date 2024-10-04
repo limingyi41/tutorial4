@@ -8,6 +8,6 @@ public class Calc {
     }
 
     public int subtract(int x, int y) {
-        return x - y; // 修正为减法
+        return x - y;
     }
 }
